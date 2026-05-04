@@ -7,7 +7,7 @@ a = 4;
 
 printf(" Enter the first value is = %d \n", a);
 
-printf(" After increment the first value is = %d \n", ++a); // first increase then use 
+printf(" After increment the first value is = %d \n", ++a); // ++a means here first increase, then use 
 
 printf(" The final result is = %d \n", a); 
 
